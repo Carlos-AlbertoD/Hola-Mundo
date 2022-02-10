@@ -1,5 +1,5 @@
-# Hola-Mundo
-Prueba: mi primer repositorio de Github
+# Hola Mundo
+¡Hola!
 
 Carlos estuvo aquí
 
