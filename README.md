@@ -7,7 +7,7 @@ Carlos-AlbertoD/Hola-Mundo es un repositorio de prueba en donde trato de familia
  No hay mucho que instalar aquí
 
 ### Uso
-El readme se lee con los ojos, la [foto del aguacate](Hola-Mundo/avocado.jpg) con el corazón.
+El readme se lee con los ojos, la [foto del aguacate](/avocado.jpg) con el corazón.
 
 ### Contribución
 Cualquier cosa por un pull request, gracias!
